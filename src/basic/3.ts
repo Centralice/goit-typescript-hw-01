@@ -2,3 +2,4 @@
 // яка може містити лише одне з двох можливих рядкових значень: 'enable' або 'disable' (literal type).
 
 let mix: string | number;
+let enableOrDisable: "enable" | "disable";
